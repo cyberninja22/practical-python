@@ -1,0 +1,10 @@
+
+   Speedtest by Ookla
+
+     Server: Aeneas - Jackson, TN (id = 37606)
+        ISP: Comcast Cable
+    Latency:    68.72 ms   (3.91 ms jitter)
+   Download:   402.56 Mbps (data used: 670.5 MB)                               
+     Upload:    73.25 Mbps (data used: 135.7 MB)                               
+Packet Loss:     0.7%
+ Result URL: https://www.speedtest.net/result/c/0fa13a14-653f-4100-b4bd-fce22c726ad7
